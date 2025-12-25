@@ -164,17 +164,7 @@ Potential improvements:
 - Export answers to file
 - Advanced search filters
 
-## License 📄
 
-This project is open source and available under the MIT License.
-
-## Contributing 🤝
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## Support 💬
-
-For issues, questions, or suggestions, please open an issue on the repository.
 
 ---
 
